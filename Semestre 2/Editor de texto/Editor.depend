@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1696103964 source:c:\users\rheno\downloads\sorted\programming\editor\editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.h"
+
+1696104008 c:\users\rheno\downloads\sorted\programming\editor\editor\listadinencad.h
+
