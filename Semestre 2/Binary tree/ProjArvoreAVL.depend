@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702411340 source:c:\users\14554835\downloads\projarvoreavl\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1702410587 c:\users\14554835\downloads\projarvoreavl\arvoreavl.h
+
+1702410709 source:c:\users\14554835\downloads\projarvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
