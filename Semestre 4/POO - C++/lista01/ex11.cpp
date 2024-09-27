@@ -9,7 +9,7 @@ using namespace std;
 
 std::string raizes(double a, double b, double c){
     double delta = pow(b,2) - 4*a*c;
-    cout << delta << endl;
+    //cout << delta << endl;
 
 
     if (delta < 0 || (a==0 && b==0)){
@@ -23,7 +23,7 @@ std::string raizes(double a, double b, double c){
     }
 
     delta = sqrt(delta);
-    cout <<delta<<endl;
+    //cout <<delta<<endl;
 
 
     double x1 = ((-b) + delta)/(2*a);
