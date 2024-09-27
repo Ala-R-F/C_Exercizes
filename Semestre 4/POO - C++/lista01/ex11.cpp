@@ -34,6 +34,11 @@ std::string raizes(double a, double b, double c){
     if (x1 == x2){
         return to_string(x1);
     }
+    else if (x1 > x2){
+        int aux = x2;
+        x2 = x1;
+        x1 = aux;
+    }
 
     string resposta;
     
